@@ -1,0 +1,304 @@
+=== prev2/manifest.json ===
+{
+  "schemaVersion": 1,
+  "backend": "native",
+  "rasterEngine": "libreoffice",
+  "source": "saved",
+  "inputPath": "C:\\Users\\lihao\\Desktop\\家教\\高三数学\\10.8\\集合专题_课堂板书版.pptx",
+  "sourceSha256": "516ddf07ad9aa856d06ac92a3505a06bbac6d2dd085d748a673ce743c95873c5",
+  "dpi": 200,
+  "pageCount": 9,
+  "images": [
+    {
+      "index": 1,
+      "page": 1,
+      "path": "C:\\Users\\lihao\\Desktop\\家教\\高三数学\\10.8\\_build_sets\\prev2\\page-0001.png",
+      "width": 2667,
+      "height": 1501,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 65633
+    },
+    {
+      "index": 2,
+      "page": 2,
+      "path": "C:\\Users\\lihao\\Desktop\\家教\\高三数学\\10.8\\_build_sets\\prev2\\page-0002.png",
+      "width": 2667,
+      "height": 1501,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 89067
+    },
+    {
+      "index": 3,
+      "page": 3,
+      "path": "C:\\Users\\lihao\\Desktop\\家教\\高三数学\\10.8\\_build_sets\\prev2\\page-0003.png",
+      "width": 2667,
+      "height": 1501,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 86861
+    },
+    {
+      "index": 4,
+      "page": 4,
+      "path": "C:\\Users\\lihao\\Desktop\\家教\\高三数学\\10.8\\_build_sets\\prev2\\page-0004.png",
+      "width": 2667,
+      "height": 1501,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 94576
+    },
+    {
+      "index": 5,
+      "page": 5,
+      "path": "C:\\Users\\lihao\\Desktop\\家教\\高三数学\\10.8\\_build_sets\\prev2\\page-0005.png",
+      "width": 2667,
+      "height": 1501,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 96637
+    },
+    {
+      "index": 6,
+      "page": 6,
+      "path": "C:\\Users\\lihao\\Desktop\\家教\\高三数学\\10.8\\_build_sets\\prev2\\page-0006.png",
+      "width": 2667,
+      "height": 1501,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 98140
+    },
+    {
+      "index": 7,
+      "page": 7,
+      "path": "C:\\Users\\lihao\\Desktop\\家教\\高三数学\\10.8\\_build_sets\\prev2\\page-0007.png",
+      "width": 2667,
+      "height": 1501,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 98101
+    },
+    {
+      "index": 8,
+      "page": 8,
+      "path": "C:\\Users\\lihao\\Desktop\\家教\\高三数学\\10.8\\_build_sets\\prev2\\page-0008.png",
+      "width": 2667,
+      "height": 1501,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 105864
+    },
+    {
+      "index": 9,
+      "page": 9,
+      "path": "C:\\Users\\lihao\\Desktop\\家教\\高三数学\\10.8\\_build_sets\\prev2\\page-0009.png",
+      "width": 2667,
+      "height": 1501,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 91952
+    }
+  ],
+  "missingFonts": []
+}
+
+
+########## page 1  size=2667x1501  px/pt = 2.77963 (vert), 2.77813 (horiz)
+  corners: TL=[175, 175, 178] TR=[148, 149, 153] BL=[148, 149, 153] BR=[228, 228, 230]
+  row0 unique=[[148, 149, 153], [149, 150, 154], [153, 154, 158], [160, 161, 165], [166, 167, 170], [171, 171, 174]]
+  row1 unique=[[148, 149, 153], [242, 242, 243], [255, 255, 255]]
+  mean gray row0=150.0 row1=255.0 row2=255.0 row3=255.0 row4=255.0 row5=255.0
+  mean gray col0=150.0 col1=254.9 col2=254.9 col5=254.9
+  mean gray rowH-1=239.1 rowH-2=255.0 rowH-6=255.0
+  thr<250: top_ink_y=567px (204.0pt)  bottom_ink_y=905px (bottom edge 325.9pt)  lower-blank=39.64%
+  thr<240: top_ink_y=568px (204.3pt)  bottom_ink_y=905px (bottom edge 325.9pt)  lower-blank=39.64%
+  thr<200: top_ink_y=568px (204.3pt)  bottom_ink_y=904px (bottom edge 325.6pt)  lower-blank=39.71%
+  thr<128: top_ink_y=568px (204.3pt)  bottom_ink_y=904px (bottom edge 325.6pt)  lower-blank=39.71%
+  first non-white row (marg5)=567  last non-white row=905
+  leftmost non-white col=735  rightmost col=1920
+  ink row-bands (thr250, gaps>=1px): [(567, 715), (824, 905)]
+  LAST band ends at y=905  -> blank below = 39.64%
+  non-white pixels in lower 40% (y>900, margin 5): 720
+  non-white pixels in lower 35% (y>975): 0
+  lower-40% distinct colors (first 12): [[46, 84, 150], [48, 86, 151], [49, 86, 151], [53, 90, 153], [56, 92, 155], [57, 93, 155], [59, 94, 156], [60, 96, 157], [63, 98, 158], [64, 99, 159], [68, 102, 161], [71, 104, 162]]  total distinct=105
+
+########## page 2  size=2667x1501  px/pt = 2.77963 (vert), 2.77813 (horiz)
+  corners: TL=[175, 175, 178] TR=[148, 149, 153] BL=[148, 149, 153] BR=[228, 228, 230]
+  row0 unique=[[148, 149, 153], [149, 150, 154], [153, 154, 158], [160, 161, 165], [166, 167, 170], [171, 171, 174]]
+  row1 unique=[[148, 149, 153], [242, 242, 243], [255, 255, 255]]
+  mean gray row0=150.0 row1=255.0 row2=255.0 row3=255.0 row4=255.0 row5=255.0
+  mean gray col0=150.0 col1=254.9 col2=254.9 col5=254.9
+  mean gray rowH-1=239.1 rowH-2=255.0 rowH-6=255.0
+  thr<250: top_ink_y=91px (32.7pt)  bottom_ink_y=406px (bottom edge 146.4pt)  lower-blank=72.88%
+  thr<240: top_ink_y=91px (32.7pt)  bottom_ink_y=406px (bottom edge 146.4pt)  lower-blank=72.88%
+  thr<200: top_ink_y=91px (32.7pt)  bottom_ink_y=406px (bottom edge 146.4pt)  lower-blank=72.88%
+  thr<128: top_ink_y=92px (33.1pt)  bottom_ink_y=405px (bottom edge 146.1pt)  lower-blank=72.95%
+  first non-white row (marg5)=91  last non-white row=406
+  leftmost non-white col=167  rightmost col=1944
+  ink row-bands (thr250, gaps>=1px): [(91, 178), (229, 300), (339, 406)]
+  LAST band ends at y=406  -> blank below = 72.88%
+  non-white pixels in lower 40% (y>900, margin 5): 0
+  non-white pixels in lower 35% (y>975): 0
+
+########## page 3  size=2667x1501  px/pt = 2.77963 (vert), 2.77813 (horiz)
+  corners: TL=[175, 175, 178] TR=[148, 149, 153] BL=[148, 149, 153] BR=[228, 228, 230]
+  row0 unique=[[148, 149, 153], [149, 150, 154], [153, 154, 158], [160, 161, 165], [166, 167, 170], [171, 171, 174]]
+  row1 unique=[[148, 149, 153], [242, 242, 243], [255, 255, 255]]
+  mean gray row0=150.0 row1=255.0 row2=255.0 row3=255.0 row4=255.0 row5=255.0
+  mean gray col0=150.0 col1=254.9 col2=254.9 col5=254.9
+  mean gray rowH-1=239.1 rowH-2=255.0 rowH-6=255.0
+  thr<250: top_ink_y=91px (32.7pt)  bottom_ink_y=406px (bottom edge 146.4pt)  lower-blank=72.88%
+  thr<240: top_ink_y=91px (32.7pt)  bottom_ink_y=406px (bottom edge 146.4pt)  lower-blank=72.88%
+  thr<200: top_ink_y=91px (32.7pt)  bottom_ink_y=406px (bottom edge 146.4pt)  lower-blank=72.88%
+  thr<128: top_ink_y=92px (33.1pt)  bottom_ink_y=405px (bottom edge 146.1pt)  lower-blank=72.95%
+  first non-white row (marg5)=91  last non-white row=406
+  leftmost non-white col=167  rightmost col=2212
+  ink row-bands (thr250, gaps>=1px): [(91, 178), (229, 300), (339, 406)]
+  LAST band ends at y=406  -> blank below = 72.88%
+  non-white pixels in lower 40% (y>900, margin 5): 0
+  non-white pixels in lower 35% (y>975): 0
+
+########## page 4  size=2667x1501  px/pt = 2.77963 (vert), 2.77813 (horiz)
+  corners: TL=[175, 175, 178] TR=[148, 149, 153] BL=[148, 149, 153] BR=[228, 228, 230]
+  row0 unique=[[148, 149, 153], [149, 150, 154], [153, 154, 158], [160, 161, 165], [166, 167, 170], [171, 171, 174]]
+  row1 unique=[[148, 149, 153], [242, 242, 243], [255, 255, 255]]
+  mean gray row0=150.0 row1=255.0 row2=255.0 row3=255.0 row4=255.0 row5=255.0
+  mean gray col0=150.0 col1=254.9 col2=254.9 col5=254.9
+  mean gray rowH-1=239.1 rowH-2=255.0 rowH-6=255.0
+  thr<250: top_ink_y=91px (32.7pt)  bottom_ink_y=406px (bottom edge 146.4pt)  lower-blank=72.88%
+  thr<240: top_ink_y=91px (32.7pt)  bottom_ink_y=406px (bottom edge 146.4pt)  lower-blank=72.88%
+  thr<200: top_ink_y=91px (32.7pt)  bottom_ink_y=406px (bottom edge 146.4pt)  lower-blank=72.88%
+  thr<128: top_ink_y=92px (33.1pt)  bottom_ink_y=405px (bottom edge 146.1pt)  lower-blank=72.95%
+  first non-white row (marg5)=91  last non-white row=406
+  leftmost non-white col=167  rightmost col=2476
+  ink row-bands (thr250, gaps>=1px): [(91, 178), (229, 300), (339, 406)]
+  LAST band ends at y=406  -> blank below = 72.88%
+  non-white pixels in lower 40% (y>900, margin 5): 0
+  non-white pixels in lower 35% (y>975): 0
+
+########## page 5  size=2667x1501  px/pt = 2.77963 (vert), 2.77813 (horiz)
+  corners: TL=[175, 175, 178] TR=[148, 149, 153] BL=[148, 149, 153] BR=[228, 228, 230]
+  row0 unique=[[148, 149, 153], [149, 150, 154], [153, 154, 158], [160, 161, 165], [166, 167, 170], [171, 171, 174]]
+  row1 unique=[[148, 149, 153], [242, 242, 243], [255, 255, 255]]
+  mean gray row0=150.0 row1=255.0 row2=255.0 row3=255.0 row4=255.0 row5=255.0
+  mean gray col0=150.0 col1=254.9 col2=254.9 col5=254.9
+  mean gray rowH-1=239.1 rowH-2=255.0 rowH-6=255.0
+  thr<250: top_ink_y=91px (32.7pt)  bottom_ink_y=406px (bottom edge 146.4pt)  lower-blank=72.88%
+  thr<240: top_ink_y=91px (32.7pt)  bottom_ink_y=406px (bottom edge 146.4pt)  lower-blank=72.88%
+  thr<200: top_ink_y=91px (32.7pt)  bottom_ink_y=405px (bottom edge 146.1pt)  lower-blank=72.95%
+  thr<128: top_ink_y=92px (33.1pt)  bottom_ink_y=405px (bottom edge 146.1pt)  lower-blank=72.95%
+  first non-white row (marg5)=91  last non-white row=406
+  leftmost non-white col=167  rightmost col=2256
+  ink row-bands (thr250, gaps>=1px): [(91, 178), (229, 300), (339, 406)]
+  LAST band ends at y=406  -> blank below = 72.88%
+  non-white pixels in lower 40% (y>900, margin 5): 0
+  non-white pixels in lower 35% (y>975): 0
+
+########## page 6  size=2667x1501  px/pt = 2.77963 (vert), 2.77813 (horiz)
+  corners: TL=[175, 175, 178] TR=[148, 149, 153] BL=[148, 149, 153] BR=[228, 228, 230]
+  row0 unique=[[148, 149, 153], [149, 150, 154], [153, 154, 158], [160, 161, 165], [166, 167, 170], [171, 171, 174]]
+  row1 unique=[[148, 149, 153], [242, 242, 243], [255, 255, 255]]
+  mean gray row0=150.0 row1=255.0 row2=255.0 row3=255.0 row4=255.0 row5=255.0
+  mean gray col0=150.0 col1=254.9 col2=254.9 col5=254.9
+  mean gray rowH-1=239.1 rowH-2=255.0 rowH-6=255.0
+  thr<250: top_ink_y=91px (32.7pt)  bottom_ink_y=406px (bottom edge 146.4pt)  lower-blank=72.88%
+  thr<240: top_ink_y=91px (32.7pt)  bottom_ink_y=406px (bottom edge 146.4pt)  lower-blank=72.88%
+  thr<200: top_ink_y=91px (32.7pt)  bottom_ink_y=406px (bottom edge 146.4pt)  lower-blank=72.88%
+  thr<128: top_ink_y=92px (33.1pt)  bottom_ink_y=405px (bottom edge 146.1pt)  lower-blank=72.95%
+  first non-white row (marg5)=91  last non-white row=406
+  leftmost non-white col=167  rightmost col=2358
+  ink row-bands (thr250, gaps>=1px): [(91, 178), (229, 300), (339, 406)]
+  LAST band ends at y=406  -> blank below = 72.88%
+  non-white pixels in lower 40% (y>900, margin 5): 0
+  non-white pixels in lower 35% (y>975): 0
+
+########## page 7  size=2667x1501  px/pt = 2.77963 (vert), 2.77813 (horiz)
+  corners: TL=[175, 175, 178] TR=[148, 149, 153] BL=[148, 149, 153] BR=[228, 228, 230]
+  row0 unique=[[148, 149, 153], [149, 150, 154], [153, 154, 158], [160, 161, 165], [166, 167, 170], [171, 171, 174]]
+  row1 unique=[[148, 149, 153], [242, 242, 243], [255, 255, 255]]
+  mean gray row0=150.0 row1=255.0 row2=255.0 row3=255.0 row4=255.0 row5=255.0
+  mean gray col0=150.0 col1=254.9 col2=254.9 col5=254.9
+  mean gray rowH-1=239.1 rowH-2=255.0 rowH-6=255.0
+  thr<250: top_ink_y=91px (32.7pt)  bottom_ink_y=406px (bottom edge 146.4pt)  lower-blank=72.88%
+  thr<240: top_ink_y=91px (32.7pt)  bottom_ink_y=406px (bottom edge 146.4pt)  lower-blank=72.88%
+  thr<200: top_ink_y=91px (32.7pt)  bottom_ink_y=406px (bottom edge 146.4pt)  lower-blank=72.88%
+  thr<128: top_ink_y=91px (32.7pt)  bottom_ink_y=405px (bottom edge 146.1pt)  lower-blank=72.95%
+  first non-white row (marg5)=91  last non-white row=406
+  leftmost non-white col=167  rightmost col=2283
+  ink row-bands (thr250, gaps>=1px): [(91, 178), (229, 300), (339, 406)]
+  LAST band ends at y=406  -> blank below = 72.88%
+  non-white pixels in lower 40% (y>900, margin 5): 0
+  non-white pixels in lower 35% (y>975): 0
+
+########## page 8  size=2667x1501  px/pt = 2.77963 (vert), 2.77813 (horiz)
+  corners: TL=[175, 175, 178] TR=[148, 149, 153] BL=[148, 149, 153] BR=[228, 228, 230]
+  row0 unique=[[148, 149, 153], [149, 150, 154], [153, 154, 158], [160, 161, 165], [166, 167, 170], [171, 171, 174]]
+  row1 unique=[[148, 149, 153], [242, 242, 243], [255, 255, 255]]
+  mean gray row0=150.0 row1=255.0 row2=255.0 row3=255.0 row4=255.0 row5=255.0
+  mean gray col0=150.0 col1=254.9 col2=254.9 col5=254.9
+  mean gray rowH-1=239.1 rowH-2=255.0 rowH-6=255.0
+  thr<250: top_ink_y=91px (32.7pt)  bottom_ink_y=489px (bottom edge 176.3pt)  lower-blank=67.36%
+  thr<240: top_ink_y=91px (32.7pt)  bottom_ink_y=489px (bottom edge 176.3pt)  lower-blank=67.36%
+  thr<200: top_ink_y=91px (32.7pt)  bottom_ink_y=489px (bottom edge 176.3pt)  lower-blank=67.36%
+  thr<128: top_ink_y=92px (33.1pt)  bottom_ink_y=489px (bottom edge 176.3pt)  lower-blank=67.36%
+  first non-white row (marg5)=91  last non-white row=489
+  leftmost non-white col=167  rightmost col=1868
+  ink row-bands (thr250, gaps>=1px): [(91, 178), (229, 300), (335, 406), (443, 489)]
+  LAST band ends at y=489  -> blank below = 67.36%
+  non-white pixels in lower 40% (y>900, margin 5): 0
+  non-white pixels in lower 35% (y>975): 0
+
+########## page 9  size=2667x1501  px/pt = 2.77963 (vert), 2.77813 (horiz)
+  corners: TL=[175, 175, 178] TR=[148, 149, 153] BL=[148, 149, 153] BR=[228, 228, 230]
+  row0 unique=[[148, 149, 153], [149, 150, 154], [153, 154, 158], [160, 161, 165], [166, 167, 170], [171, 171, 174]]
+  row1 unique=[[148, 149, 153], [242, 242, 243], [255, 255, 255]]
+  mean gray row0=150.0 row1=255.0 row2=255.0 row3=255.0 row4=255.0 row5=255.0
+  mean gray col0=150.0 col1=254.9 col2=254.9 col5=254.9
+  mean gray rowH-1=239.1 rowH-2=255.0 rowH-6=255.0
+  thr<250: top_ink_y=91px (32.7pt)  bottom_ink_y=400px (bottom edge 144.3pt)  lower-blank=73.28%
+  thr<240: top_ink_y=91px (32.7pt)  bottom_ink_y=400px (bottom edge 144.3pt)  lower-blank=73.28%
+  thr<200: top_ink_y=91px (32.7pt)  bottom_ink_y=400px (bottom edge 144.3pt)  lower-blank=73.28%
+  thr<128: top_ink_y=92px (33.1pt)  bottom_ink_y=399px (bottom edge 143.9pt)  lower-blank=73.35%
+  first non-white row (marg5)=91  last non-white row=400
+  leftmost non-white col=167  rightmost col=1644
+  ink row-bands (thr250, gaps>=1px): [(91, 178), (229, 300), (335, 400)]
+  LAST band ends at y=400  -> blank below = 73.28%
+  non-white pixels in lower 40% (y>900, margin 5): 0
+  non-white pixels in lower 35% (y>975): 0

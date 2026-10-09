@@ -1,0 +1,64 @@
+=== 1. notesSlide / comment parts ===
+  notesSlide/comment parts: NONE
+  total parts = 154
+
+=== 2. presentation order vs slide file order ===
+  sldIdLst order -> ['slide1.xml', 'slide2.xml', 'slide3.xml', 'slide4.xml', 'slide5.xml', 'slide6.xml', 'slide7.xml', 'slide8.xml', 'slide9.xml']
+  matches slide1..slide9 in order: True
+
+=== 3. background fills ===
+  ppt/slides/slide1.xml: bg=NONE
+  ppt/slides/slide2.xml: bg=NONE
+  ppt/slides/slide3.xml: bg=NONE
+  ppt/slides/slide4.xml: bg=NONE
+  ppt/slides/slide5.xml: bg=NONE
+  ppt/slides/slide6.xml: bg=NONE
+  ppt/slides/slide7.xml: bg=NONE
+  ppt/slides/slide8.xml: bg=NONE
+  ppt/slides/slide9.xml: bg=NONE
+  ppt/slideLayouts/slideLayout7.xml: bg=NONE
+  ppt/slideMasters/slideMaster1.xml: bg=<p:bg xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/200
+
+=== 4. per-slide shape census ===
+  slide1: sp=2(with a:t=2) pic=0 cxnSp=0 grpSp=0 graphicFrame=0 maxPicArea=0.00%  totalPicArea=0.00%  prstGeoms=['rect']
+  slide2: sp=9(with a:t=9) pic=7 cxnSp=0 grpSp=0 graphicFrame=0 maxPicArea=0.71%  totalPicArea=2.92%  prstGeoms=['rect']
+  slide3: sp=9(with a:t=9) pic=7 cxnSp=0 grpSp=0 graphicFrame=0 maxPicArea=1.10%  totalPicArea=3.40%  prstGeoms=['rect']
+  slide4: sp=9(with a:t=9) pic=7 cxnSp=0 grpSp=0 graphicFrame=0 maxPicArea=1.04%  totalPicArea=5.11%  prstGeoms=['rect']
+  slide5: sp=9(with a:t=9) pic=7 cxnSp=0 grpSp=0 graphicFrame=0 maxPicArea=0.96%  totalPicArea=3.32%  prstGeoms=['rect']
+  slide6: sp=9(with a:t=9) pic=7 cxnSp=0 grpSp=0 graphicFrame=0 maxPicArea=1.09%  totalPicArea=3.86%  prstGeoms=['rect']
+  slide7: sp=9(with a:t=9) pic=7 cxnSp=0 grpSp=0 graphicFrame=0 maxPicArea=1.36%  totalPicArea=3.61%  prstGeoms=['rect']
+  slide8: sp=11(with a:t=11) pic=8 cxnSp=0 grpSp=0 graphicFrame=0 maxPicArea=0.70%  totalPicArea=1.92%  prstGeoms=['rect']
+  slide9: sp=6(with a:t=6) pic=3 cxnSp=0 grpSp=0 graphicFrame=0 maxPicArea=2.01%  totalPicArea=2.14%  prstGeoms=['rect']
+
+=== 5. LEAK SCAN: forbidden strings in slide text ===
+  slide1: forbidden-hits=[]   full-text='高三数学专题复习集合——八大典型题型'
+  slide2: forbidden-hits=[]   full-text='题型一\u3000集合的基本运算已知集合 ，，则 （\u3000）A.B.C.D.'
+  slide3: forbidden-hits=[]   full-text='题型二\u3000不等式与集合运算已知集合 ，，则 （\u3000）A.B.C.D.'
+  slide4: forbidden-hits=[]   full-text='题型三\u3000区间型集合运算已知集合 ，，则 （\u3000）A.B.C.D.'
+  slide5: forbidden-hits=[]   full-text='题型四\u3000函数定义域与值域型集合已知集合 ，，则 （\u3000）A.B.C.D.'
+  slide6: forbidden-hits=[]   full-text='题型五\u3000特殊数集与列举法已知集合 ，，则 （\u3000）A.B.C.D.'
+  slide7: forbidden-hits=[]   full-text='题型六\u3000根据关系生成新集合已知集合 ，，则 （\u3000）A.B.C.D.'
+  slide8: forbidden-hits=[]   full-text='题型七\u3000集合关系与元素个数已知集合 ，若集合  满足 ，则集合对  共有（\u3000）个．A.B.C.D.'
+  slide9: forbidden-hits=[]   full-text='题型八\u3000特殊元素与几何计数已知集合 ，则集合  中的元素个数为 ．'
+
+=== 6. SVG/XML leak scan ===
+  SVG parts containing <text>/<tspan>: 0 of 53  []
+
+=== 7. largest picture shapes across deck ===
+   2.01% of slide  slide9  at (2.33,1.15)in  size 5.80x0.35in
+   1.36% of slide  slide7  at (4.46,1.17)in  size 4.09x0.33in
+   1.10% of slide  slide3  at (5.03,1.15)in  size 3.17x0.35in
+   1.09% of slide  slide6  at (2.33,1.15)in  size 3.15x0.35in
+   1.04% of slide  slide4  at (5.78,1.17)in  size 3.14x0.33in
+   1.04% of slide  slide4  at (2.33,1.17)in  size 3.12x0.33in
+
+=== 8. bottom-most shape edge per slide (from XML geometry, 540pt tall) ===
+  slide1: bottom edge 351.8pt = 65.1% -> lower blank 34.85%   [sp '集合——八大典型题型']
+  slide2: bottom edge 164.2pt = 30.4% -> lower blank 69.59%   [sp 'A.']
+  slide3: bottom edge 164.2pt = 30.4% -> lower blank 69.59%   [sp 'A.']
+  slide4: bottom edge 164.2pt = 30.4% -> lower blank 69.59%   [sp 'A.']
+  slide5: bottom edge 164.2pt = 30.4% -> lower blank 69.59%   [sp 'A.']
+  slide6: bottom edge 164.2pt = 30.4% -> lower blank 69.59%   [sp 'A.']
+  slide7: bottom edge 164.2pt = 30.4% -> lower blank 69.59%   [sp 'A.']
+  slide8: bottom edge 200.2pt = 37.1% -> lower blank 62.93%   [sp 'A.']
+  slide9: bottom edge 164.2pt = 30.4% -> lower blank 69.59%   [sp '则集合 ']

@@ -1,0 +1,10 @@
+\documentclass[border=0pt,12pt]{standalone}
+\usepackage{amsmath,amssymb}
+\newlength\dsmW\newlength\dsmH\newlength\dsmD
+\begin{document}%
+\settowidth\dsmW{$\{{-}1,0,1,2\}$}%
+\settoheight\dsmH{$\{{-}1,0,1,2\}$}%
+\settodepth\dsmD{$\{{-}1,0,1,2\}$}%
+\typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}%
+\noindent$\{{-}1,0,1,2\}$%
+\end{document}

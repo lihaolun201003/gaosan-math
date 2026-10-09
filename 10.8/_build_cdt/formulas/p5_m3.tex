@@ -1,0 +1,11 @@
+\documentclass[border=0pt,12pt]{standalone}
+\usepackage{amsmath,amssymb}
+\newlength\dsmW\newlength\dsmH\newlength\dsmD
+\begin{document}
+\fontsize{26}{31.2}\selectfont
+\settowidth\dsmW{$f(x)=2x^2+4ax+1$}%
+\settoheight\dsmH{$f(x)=2x^2+4ax+1$}%
+\settodepth\dsmD{$f(x)=2x^2+4ax+1$}%
+\typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}%
+$f(x)=2x^2+4ax+1$%
+\end{document}

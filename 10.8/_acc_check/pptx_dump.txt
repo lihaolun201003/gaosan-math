@@ -1,0 +1,222 @@
+=== SVG MEDIA PARTS ===
+ppt/media/*.svg count = 53
+ppt/media/*.png count = 47
+
+=== PER-SLIDE DETAIL ===
+
+########## slide1: sp=2 pic=0 svgBlip=0 a:t=2
+  [2] <sp> name=None off=(1524000, 2484742) ext=(9144000, 1219200) svgBlip=0 blipRels=[]
+        TEXT: '高三数学专题复习'
+  [3] <sp> name=None off=(1524000, 3705924) ext=(9144000, 762000) svgBlip=0 blipRels=[]
+        TEXT: '集合——八大典型题型'
+
+########## slide2: sp=9 pic=7 svgBlip=7 a:t=9
+  [2] <sp> name=None off=(762000, 352958) ext=(9144000, 731520) svgBlip=0 blipRels=[]
+        TEXT: '题型一\u3000集合的基本运算'
+  [3] <sp> name=None off=(762000, 993191) ext=(1422400, 609600) svgBlip=0 blipRels=[]
+        TEXT: '已知集合 '
+  [4] <pic> name=None off=(2133600, 1067654) ext=(1735389, 303661) svgBlip=1 blipRels=['rId2']
+  [5] <sp> name=None off=(3868989, 993191) ext=(355600, 609600) svgBlip=0 blipRels=[]
+        TEXT: '，'
+  [6] <pic> name=None off=(4173789, 1067654) ext=(1967701, 303661) svgBlip=1 blipRels=['rId4']
+  [7] <sp> name=None off=(6141490, 993191) ext=(812800, 609600) svgBlip=0 blipRels=[]
+        TEXT: '，则 '
+  [8] <pic> name=None off=(6903490, 1087898) ext=(1242191, 207502) svgBlip=1 blipRels=['rId6']
+  [9] <sp> name=None off=(8145681, 993191) ext=(965200, 609600) svgBlip=0 blipRels=[]
+        TEXT: '（\u3000）'
+  [10] <sp> name=None off=(762000, 1475791) ext=(355600, 609600) svgBlip=0 blipRels=[]
+        TEXT: 'A.'
+  [11] <pic> name=None off=(1130300, 1601371) ext=(236182, 201428) svgBlip=1 blipRels=['rId8']
+  [12] <sp> name=None off=(1874482, 1475791) ext=(355600, 609600) svgBlip=0 blipRels=[]
+        TEXT: 'B.'
+  [13] <pic> name=None off=(2242782, 1550254) ext=(1016063, 303661) svgBlip=1 blipRels=['rId10']
+  [14] <sp> name=None off=(3766845, 1475791) ext=(355600, 609600) svgBlip=0 blipRels=[]
+        TEXT: 'C.'
+  [15] <pic> name=None off=(4135145, 1550254) ext=(734196, 303661) svgBlip=1 blipRels=['rId12']
+  [16] <sp> name=None off=(5377340, 1475791) ext=(355600, 609600) svgBlip=0 blipRels=[]
+        TEXT: 'D.'
+  [17] <pic> name=None off=(5745640, 1550254) ext=(1579798, 303661) svgBlip=1 blipRels=['rId14']
+
+########## slide3: sp=9 pic=7 svgBlip=7 a:t=9
+  [2] <sp> name=None off=(762000, 352958) ext=(9144000, 731520) svgBlip=0 blipRels=[]
+        TEXT: '题型二\u3000不等式与集合运算'
+  [3] <sp> name=None off=(762000, 993191) ext=(1422400, 609600) svgBlip=0 blipRels=[]
+        TEXT: '已知集合 '
+  [4] <pic> name=None off=(2133600, 1067654) ext=(2156962, 303661) svgBlip=1 blipRels=['rId2']
+  [5] <sp> name=None off=(4290562, 993191) ext=(355600, 609600) svgBlip=0 blipRels=[]
+        TEXT: '，'
+  [6] <pic> name=None off=(4595362, 1054742) ext=(2898313, 316574) svgBlip=1 blipRels=['rId4']
+  [7] <sp> name=None off=(7493676, 993191) ext=(812800, 609600) svgBlip=0 blipRels=[]
+        TEXT: '，则 '
+  [8] <pic> name=None off=(8255676, 1087898) ext=(1117105, 207502) svgBlip=1 blipRels=['rId6']
+  [9] <sp> name=None off=(9372781, 993191) ext=(965200, 609600) svgBlip=0 blipRels=[]
+        TEXT: '（\u3000）'
+  [10] <sp> name=None off=(762000, 1475791) ext=(355600, 609600) svgBlip=0 blipRels=[]
+        TEXT: 'A.'
+  [11] <pic> name=None off=(1130300, 1550254) ext=(970377, 303661) svgBlip=1 blipRels=['rId8']
+  [12] <sp> name=None off=(2608677, 1475791) ext=(355600, 609600) svgBlip=0 blipRels=[]
+        TEXT: 'B.'
+  [13] <pic> name=None off=(2976977, 1550254) ext=(734196, 303661) svgBlip=1 blipRels=['rId10']
+  [14] <sp> name=None off=(4219173, 1475791) ext=(355600, 609600) svgBlip=0 blipRels=[]
+        TEXT: 'C.'
+  [15] <pic> name=None off=(4587473, 1550254) ext=(734196, 303661) svgBlip=1 blipRels=['rId12']
+  [16] <sp> name=None off=(5829668, 1475791) ext=(355600, 609600) svgBlip=0 blipRels=[]
+        TEXT: 'D.'
+  [17] <pic> name=None off=(6197968, 1550254) ext=(970377, 303661) svgBlip=1 blipRels=['rId14']
+
+########## slide4: sp=9 pic=7 svgBlip=7 a:t=9
+  [2] <sp> name=None off=(762000, 352958) ext=(9144000, 731520) svgBlip=0 blipRels=[]
+        TEXT: '题型三\u3000区间型集合运算'
+  [3] <sp> name=None off=(762000, 993191) ext=(1422400, 609600) svgBlip=0 blipRels=[]
+        TEXT: '已知集合 '
+  [4] <pic> name=None off=(2133600, 1067654) ext=(2850913, 303661) svgBlip=1 blipRels=['rId2']
+  [5] <sp> name=None off=(4984513, 993191) ext=(355600, 609600) svgBlip=0 blipRels=[]
+        TEXT: '，'
+  [6] <pic> name=None off=(5289313, 1067654) ext=(2874147, 303661) svgBlip=1 blipRels=['rId4']
+  [7] <sp> name=None off=(8163460, 993191) ext=(812800, 609600) svgBlip=0 blipRels=[]
+        TEXT: '，则 '
+  [8] <pic> name=None off=(8925460, 1087898) ext=(1117105, 207502) svgBlip=1 blipRels=['rId6']
+  [9] <sp> name=None off=(10042565, 993191) ext=(965200, 609600) svgBlip=0 blipRels=[]
+        TEXT: '（\u3000）'
+  [10] <sp> name=None off=(762000, 1475791) ext=(355600, 609600) svgBlip=0 blipRels=[]
+        TEXT: 'A.'
+  [11] <pic> name=None off=(1130300, 1550254) ext=(2228063, 303661) svgBlip=1 blipRels=['rId8']
+  [12] <sp> name=None off=(3866363, 1475791) ext=(355600, 609600) svgBlip=0 blipRels=[]
+        TEXT: 'B.'
+  [13] <pic> name=None off=(4234663, 1550254) ext=(1679441, 303661) svgBlip=1 blipRels=['rId10']
+  [14] <sp> name=None off=(6422104, 1475791) ext=(355600, 609600) svgBlip=0 blipRels=[]
+        TEXT: 'C.'
+  [15] <pic> name=None off=(6790404, 1550254) ext=(2232986, 303661) svgBlip=1 blipRels=['rId12']
+  [16] <sp> name=None off=(9531390, 1475791) ext=(355600, 609600) svgBlip=0 blipRels=[]
+        TEXT: 'D.'
+  [17] <pic> name=None off=(9899690, 1550254) ext=(1443259, 303661) svgBlip=1 blipRels=['rId14']
+
+########## slide5: sp=9 pic=7 svgBlip=7 a:t=9
+  [2] <sp> name=None off=(762000, 352958) ext=(9144000, 731520) svgBlip=0 blipRels=[]
+        TEXT: '题型四\u3000函数定义域与值域型集合'
+  [3] <sp> name=None off=(762000, 993191) ext=(1422400, 609600) svgBlip=0 blipRels=[]
+        TEXT: '已知集合 '
+  [4] <pic> name=None off=(2133600, 1067654) ext=(2620973, 303661) svgBlip=1 blipRels=['rId2']
+  [5] <sp> name=None off=(4754573, 993191) ext=(355600, 609600) svgBlip=0 blipRels=[]
+        TEXT: '，'
+  [6] <pic> name=None off=(5059373, 1067654) ext=(2633042, 303661) svgBlip=1 blipRels=['rId4']
+  [7] <sp> name=None off=(7692415, 993191) ext=(812800, 609600) svgBlip=0 blipRels=[]
+        TEXT: '，则 '
+  [8] <pic> name=None off=(8454415, 1087898) ext=(1117105, 207502) svgBlip=1 blipRels=['rId6']
+  [9] <sp> name=None off=(9571520, 993191) ext=(965200, 609600) svgBlip=0 blipRels=[]
+        TEXT: '（\u3000）'
+  [10] <sp> name=None off=(762000, 1475791) ext=(355600, 609600) svgBlip=0 blipRels=[]
+        TEXT: 'A.'
+  [11] <pic> name=None off=(1130300, 1550254) ext=(897973, 303661) svgBlip=1 blipRels=['rId8']
+  [12] <sp> name=None off=(2536273, 1475791) ext=(355600, 609600) svgBlip=0 blipRels=[]
+        TEXT: 'B.'
+  [13] <pic> name=None off=(2904573, 1550254) ext=(897973, 303661) svgBlip=1 blipRels=['rId10']
+  [14] <sp> name=None off=(4310547, 1475791) ext=(355600, 609600) svgBlip=0 blipRels=[]
+        TEXT: 'C.'
+  [15] <pic> name=None off=(4678847, 1550254) ext=(661792, 303661) svgBlip=1 blipRels=['rId12']
+  [16] <sp> name=None off=(5848638, 1475791) ext=(355600, 609600) svgBlip=0 blipRels=[]
+        TEXT: 'D.'
+  [17] <pic> name=None off=(6216938, 1550254) ext=(661792, 303661) svgBlip=1 blipRels=['rId14']
+
+########## slide6: sp=9 pic=7 svgBlip=7 a:t=9
+  [2] <sp> name=None off=(762000, 352958) ext=(9144000, 731520) svgBlip=0 blipRels=[]
+        TEXT: '题型五\u3000特殊数集与列举法'
+  [3] <sp> name=None off=(762000, 993191) ext=(1422400, 609600) svgBlip=0 blipRels=[]
+        TEXT: '已知集合 '
+  [4] <pic> name=None off=(2133600, 1054742) ext=(2880002, 316574) svgBlip=1 blipRels=['rId2']
+  [5] <sp> name=None off=(5013602, 993191) ext=(355600, 609600) svgBlip=0 blipRels=[]
+        TEXT: '，'
+  [6] <pic> name=None off=(5318402, 1067654) ext=(2843572, 303661) svgBlip=1 blipRels=['rId4']
+  [7] <sp> name=None off=(8161974, 993191) ext=(812800, 609600) svgBlip=0 blipRels=[]
+        TEXT: '，则 '
+  [8] <pic> name=None off=(8923974, 1087898) ext=(1117105, 207502) svgBlip=1 blipRels=['rId6']
+  [9] <sp> name=None off=(10041080, 993191) ext=(965200, 609600) svgBlip=0 blipRels=[]
+        TEXT: '（\u3000）'
+  [10] <sp> name=None off=(762000, 1475791) ext=(355600, 609600) svgBlip=0 blipRels=[]
+        TEXT: 'A.'
+  [11] <pic> name=None off=(1130300, 1550254) ext=(734196, 303661) svgBlip=1 blipRels=['rId8']
+  [12] <sp> name=None off=(2372496, 1475791) ext=(355600, 609600) svgBlip=0 blipRels=[]
+        TEXT: 'B.'
+  [13] <pic> name=None off=(2740796, 1550254) ext=(734196, 303661) svgBlip=1 blipRels=['rId10']
+  [14] <sp> name=None off=(3982991, 1475791) ext=(355600, 609600) svgBlip=0 blipRels=[]
+        TEXT: 'C.'
+  [15] <pic> name=None off=(4351291, 1550254) ext=(1016063, 303661) svgBlip=1 blipRels=['rId12']
+  [16] <sp> name=None off=(5875354, 1475791) ext=(355600, 609600) svgBlip=0 blipRels=[]
+        TEXT: 'D.'
+  [17] <pic> name=None off=(6243654, 1550254) ext=(1534112, 303661) svgBlip=1 blipRels=['rId14']
+
+########## slide7: sp=9 pic=7 svgBlip=7 a:t=9
+  [2] <sp> name=None off=(762000, 352958) ext=(9144000, 731520) svgBlip=0 blipRels=[]
+        TEXT: '题型六\u3000根据关系生成新集合'
+  [3] <sp> name=None off=(762000, 993191) ext=(1422400, 609600) svgBlip=0 blipRels=[]
+        TEXT: '已知集合 '
+  [4] <pic> name=None off=(2133600, 1067654) ext=(1638913, 303661) svgBlip=1 blipRels=['rId2']
+  [5] <sp> name=None off=(3772513, 993191) ext=(355600, 609600) svgBlip=0 blipRels=[]
+        TEXT: '，'
+  [6] <pic> name=None off=(4077313, 1067654) ext=(3742196, 303661) svgBlip=1 blipRels=['rId4']
+  [7] <sp> name=None off=(7819509, 993191) ext=(812800, 609600) svgBlip=0 blipRels=[]
+        TEXT: '，则 '
+  [8] <pic> name=None off=(8581509, 1087898) ext=(1117105, 207502) svgBlip=1 blipRels=['rId6']
+  [9] <sp> name=None off=(9698614, 993191) ext=(965200, 609600) svgBlip=0 blipRels=[]
+        TEXT: '（\u3000）'
+  [10] <sp> name=None off=(762000, 1475791) ext=(355600, 609600) svgBlip=0 blipRels=[]
+        TEXT: 'A.'
+  [11] <pic> name=None off=(1130300, 1550254) ext=(734196, 303661) svgBlip=1 blipRels=['rId8']
+  [12] <sp> name=None off=(2372496, 1475791) ext=(355600, 609600) svgBlip=0 blipRels=[]
+        TEXT: 'B.'
+  [13] <pic> name=None off=(2740796, 1550254) ext=(1016063, 303661) svgBlip=1 blipRels=['rId10']
+  [14] <sp> name=None off=(4264859, 1475791) ext=(355600, 609600) svgBlip=0 blipRels=[]
+        TEXT: 'C.'
+  [15] <pic> name=None off=(4633159, 1550254) ext=(734196, 303661) svgBlip=1 blipRels=['rId12']
+  [16] <sp> name=None off=(5875354, 1475791) ext=(355600, 609600) svgBlip=0 blipRels=[]
+        TEXT: 'D.'
+  [17] <pic> name=None off=(6243654, 1550254) ext=(1297931, 303661) svgBlip=1 blipRels=['rId14']
+
+########## slide8: sp=11 pic=8 svgBlip=8 a:t=11
+  [2] <sp> name=None off=(762000, 352958) ext=(9144000, 731520) svgBlip=0 blipRels=[]
+        TEXT: '题型七\u3000集合关系与元素个数'
+  [3] <sp> name=None off=(762000, 993191) ext=(1422400, 609600) svgBlip=0 blipRels=[]
+        TEXT: '已知集合 '
+  [4] <pic> name=None off=(2133600, 1067654) ext=(1931543, 303661) svgBlip=1 blipRels=['rId2']
+  [5] <sp> name=None off=(4065143, 993191) ext=(1422400, 609600) svgBlip=0 blipRels=[]
+        TEXT: '，若集合 '
+  [6] <pic> name=None off=(5436743, 1087898) ext=(597300, 266547) svgBlip=1 blipRels=['rId4']
+  [7] <sp> name=None off=(6034043, 993191) ext=(965200, 609600) svgBlip=0 blipRels=[]
+        TEXT: ' 满足 '
+  [8] <pic> name=None off=(6948443, 1087898) ext=(1507513, 248791) svgBlip=1 blipRels=['rId6']
+  [9] <sp> name=None off=(8455956, 993191) ext=(355600, 609600) svgBlip=0 blipRels=[]
+        TEXT: '，'
+  [10] <sp> name=None off=(762000, 1475791) ext=(1422400, 609600) svgBlip=0 blipRels=[]
+        TEXT: '则集合对 '
+  [11] <pic> name=None off=(2133600, 1550254) ext=(828558, 303661) svgBlip=1 blipRels=['rId8']
+  [12] <sp> name=None off=(2962158, 1475791) ext=(2336800, 609600) svgBlip=0 blipRels=[]
+        TEXT: ' 共有（\u3000）个．'
+  [13] <sp> name=None off=(762000, 1932991) ext=(355600, 609600) svgBlip=0 blipRels=[]
+        TEXT: 'A.'
+  [14] <pic> name=None off=(1130300, 2039507) ext=(297332, 195693) svgBlip=1 blipRels=['rId10']
+  [15] <sp> name=None off=(1935632, 1932991) ext=(355600, 609600) svgBlip=0 blipRels=[]
+        TEXT: 'B.'
+  [16] <pic> name=None off=(2303932, 2039507) ext=(297332, 195693) svgBlip=1 blipRels=['rId12']
+  [17] <sp> name=None off=(3109264, 1932991) ext=(355600, 609600) svgBlip=0 blipRels=[]
+        TEXT: 'C.'
+  [18] <pic> name=None off=(3477564, 2039507) ext=(297332, 195693) svgBlip=1 blipRels=['rId14']
+  [19] <sp> name=None off=(4282896, 1932991) ext=(355600, 609600) svgBlip=0 blipRels=[]
+        TEXT: 'D.'
+  [20] <pic> name=None off=(4651196, 2039507) ext=(297332, 195693) svgBlip=1 blipRels=['rId16']
+
+########## slide9: sp=6 pic=3 svgBlip=3 a:t=6
+  [2] <sp> name=None off=(762000, 352958) ext=(9144000, 731520) svgBlip=0 blipRels=[]
+        TEXT: '题型八\u3000特殊元素与几何计数'
+  [3] <sp> name=None off=(762000, 993191) ext=(1422400, 609600) svgBlip=0 blipRels=[]
+        TEXT: '已知集合 '
+  [4] <pic> name=None off=(2133600, 1054742) ext=(5300999, 316574) svgBlip=1 blipRels=['rId2']
+  [5] <sp> name=None off=(7434599, 993191) ext=(355600, 609600) svgBlip=0 blipRels=[]
+        TEXT: '，'
+  [6] <sp> name=None off=(762000, 1475791) ext=(1117600, 609600) svgBlip=0 blipRels=[]
+        TEXT: '则集合 '
+  [7] <pic> name=None off=(1828800, 1570498) ext=(233656, 207502) svgBlip=1 blipRels=['rId4']
+  [8] <sp> name=None off=(2062456, 1475791) ext=(2489200, 609600) svgBlip=0 blipRels=[]
+        TEXT: ' 中的元素个数为 '
+  [9] <pic> name=None off=(4500856, 1778000) ext=(1093182, 60730) svgBlip=1 blipRels=['rId6']
+  [10] <sp> name=None off=(5594038, 1475791) ext=(355600, 609600) svgBlip=0 blipRels=[]
+        TEXT: '．'

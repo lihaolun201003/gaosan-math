@@ -1,0 +1,31 @@
+{
+  "base_pt": 12,
+  "snippets": {
+    "p2_i": "i",
+    "p2_disp": "\\displaystyle \\frac{2+3i}{1-2i}",
+    "p2_blank": "\\underline{\\hspace{4em}}",
+    "p3_i": "i",
+    "p3_eq": "(3+2i)z=8+i",
+    "p3_z": "z",
+    "p3_blank": "\\underline{\\hspace{4em}}",
+    "p4_i": "i",
+    "p4_disp": "\\displaystyle \\left|\\frac{3+4i}{1+i}\\right|=\\underline{\\hspace{4em}}",
+    "p5_disp": "\\displaystyle (a+3i)(1+2i)",
+    "p5_a": "a",
+    "p5_blank": "\\underline{\\hspace{4em}}",
+    "p6_disp": "\\displaystyle z=\\frac{4+2i}{1-i}",
+    "p6_z": "z",
+    "p6_blank": "\\underline{\\hspace{4em}}",
+    "p7_i": "i",
+    "p7_disp": "\\displaystyle \\frac{2+i}{1-i}",
+    "p7_blank": "\\underline{\\hspace{4em}}",
+    "p8_i": "i",
+    "p8_z1": "z",
+    "p8_disp": "\\displaystyle \\frac{z-2i}{z}=i",
+    "p8_zb": "z=\\underline{\\hspace{4em}}",
+    "p9_z": "z",
+    "p9_d1": "|z+1-i|=2",
+    "p9_d2": "|z-2+i|",
+    "p9_blank": "\\underline{\\hspace{4em}}"
+  }
+}

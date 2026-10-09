@@ -1,0 +1,10 @@
+\documentclass[border=0pt,12pt]{standalone}
+\usepackage{amsmath,amssymb}
+\newlength\dsmW\newlength\dsmH\newlength\dsmD
+\begin{document}%
+\settowidth\dsmW{$A\cup B=$}%
+\settoheight\dsmH{$A\cup B=$}%
+\settodepth\dsmD{$A\cup B=$}%
+\typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}%
+\noindent$A\cup B=$%
+\end{document}

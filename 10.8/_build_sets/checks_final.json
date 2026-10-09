@@ -1,0 +1,29 @@
+{
+  "format": "pptx",
+  "verdict": "pass",
+  "checks": [
+    {
+      "id": "package",
+      "status": "pass"
+    },
+    {
+      "id": "contains",
+      "status": "pass",
+      "text": "\u9ad8\u4e09\u6570\u5b66\u4e13\u9898\u590d\u4e60"
+    },
+    {
+      "id": "contains",
+      "status": "pass",
+      "text": "\u9898\u578b\u516b"
+    },
+    {
+      "id": "count",
+      "status": "pass",
+      "expected": 9,
+      "actual": 9
+    }
+  ],
+  "summary": {
+    "slides": 9
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "backend": "native",
+  "rasterEngine": "libreoffice",
+  "source": "saved",
+  "inputPath": "C:\\Users\\lihao\\Desktop\\家教\\高三数学\\10.8\\_build_sets\\calib_probe.pptx",
+  "sourceSha256": "3e950e066f0e429b277f885437e6a9c04dcb4b963eb3738d8292fe9a4d451a69",
+  "dpi": 300,
+  "pageCount": 1,
+  "images": [
+    {
+      "index": 1,
+      "page": 1,
+      "path": "C:\\Users\\lihao\\Desktop\\家教\\高三数学\\10.8\\_build_sets\\calib_out\\page-0001.png",
+      "width": 4001,
+      "height": 2251,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 95272
+    }
+  ],
+  "missingFonts": []
+}

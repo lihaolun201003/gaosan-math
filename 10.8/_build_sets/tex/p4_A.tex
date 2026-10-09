@@ -1,0 +1,10 @@
+\documentclass[border=0pt,12pt]{standalone}
+\usepackage{amsmath,amssymb}
+\newlength\dsmW\newlength\dsmH\newlength\dsmD
+\begin{document}%
+\settowidth\dsmW{$A=\{x\mid -2<x<2\}$}%
+\settoheight\dsmH{$A=\{x\mid -2<x<2\}$}%
+\settodepth\dsmD{$A=\{x\mid -2<x<2\}$}%
+\typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}%
+\noindent$A=\{x\mid -2<x<2\}$%
+\end{document}

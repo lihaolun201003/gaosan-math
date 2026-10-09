@@ -1,0 +1,11 @@
+\documentclass[border=0pt,12pt]{standalone}
+\usepackage{amsmath,amssymb}
+\newlength\dsmW\newlength\dsmH\newlength\dsmD
+\begin{document}
+\fontsize{23}{27.6}\selectfont
+\settowidth\dsmW{$-2<x<1$}%
+\settoheight\dsmH{$-2<x<1$}%
+\settodepth\dsmD{$-2<x<1$}%
+\typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}%
+$-2<x<1$%
+\end{document}

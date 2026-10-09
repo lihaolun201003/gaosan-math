@@ -1,0 +1,186 @@
+
+---------- slide1 ----------
+  >> svgBlip total on slide1 = 0
+
+---------- slide2 ----------
+  svg#1 ppt/media/image2.svg (png ppt/media/image1.png) build=p2_M.svg
+        pos=(2.33,1.17)in  sz=1.90x0.33in  szMB=137x24pt
+        LATEX: % \settowidth\dsmW{$M=\{1,3,6\}$}% \settoheight\dsmH{$M=\{1,3,6\}$}% \settodepth\dsmD{$M=\{1,3,6\}$}% \typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}% \noindent$M=\{1,3,6\}$%
+  svg#2 ppt/media/image4.svg (png ppt/media/image3.png) build=p2_N.svg
+        pos=(4.56,1.17)in  sz=2.15x0.33in  szMB=155x24pt
+        LATEX: % \settowidth\dsmW{$N=\{1,3,5,7\}$}% \settoheight\dsmH{$N=\{1,3,5,7\}$}% \settodepth\dsmD{$N=\{1,3,5,7\}$}% \typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}% \noindent$N=\{1,3,5,7\}$%
+  svg#3 ppt/media/image6.svg (png ppt/media/image5.png) build=p2_cap.svg
+        pos=(7.55,1.19)in  sz=1.36x0.23in  szMB=98x16pt
+        LATEX: % \settowidth\dsmW{$M\cap N=$}% \settoheight\dsmH{$M\cap N=$}% \settodepth\dsmD{$M\cap N=$}% \typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}% \noindent$M\cap N=$%
+  svg#4 ppt/media/image8.svg (png ppt/media/image7.png) build=p2_oA.svg
+        pos=(1.24,1.75)in  sz=0.26x0.22in  szMB=19x16pt
+        LATEX: % \settowidth\dsmW{$\varnothing$}% \settoheight\dsmH{$\varnothing$}% \settodepth\dsmD{$\varnothing$}% \typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}% \noindent$\varnothing$%
+  svg#5 ppt/media/image10.svg (png ppt/media/image9.png) build=p2_oB.svg
+        pos=(2.45,1.70)in  sz=1.11x0.33in  szMB=80x24pt
+        LATEX: % \settowidth\dsmW{$\{5,6,7\}$}% \settoheight\dsmH{$\{5,6,7\}$}% \settodepth\dsmD{$\{5,6,7\}$}% \typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}% \noindent$\{5,6,7\}$%
+  svg#6 ppt/media/image12.svg (png ppt/media/image11.png) build=p7_oC.svg
+        pos=(4.52,1.70)in  sz=0.80x0.33in  szMB=58x24pt
+        LATEX: % \settowidth\dsmW{$\{1,3\}$}% \settoheight\dsmH{$\{1,3\}$}% \settodepth\dsmD{$\{1,3\}$}% \typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}% \noindent$\{1,3\}$%
+  svg#7 ppt/media/image14.svg (png ppt/media/image13.png) build=p2_oD.svg
+        pos=(6.28,1.70)in  sz=1.73x0.33in  szMB=124x24pt
+        LATEX: % \settowidth\dsmW{$\{1,3,5,6,7\}$}% \settoheight\dsmH{$\{1,3,5,6,7\}$}% \settodepth\dsmD{$\{1,3,5,6,7\}$}% \typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}% \noindent$\{1,3,5,6,7\}$%
+  >> svgBlip total on slide2 = 7
+
+---------- slide3 ----------
+  svg#1 ppt/media/image16.svg (png ppt/media/image15.png) build=p3_A.svg
+        pos=(2.33,1.17)in  sz=2.36x0.33in  szMB=170x24pt
+        LATEX: % \settowidth\dsmW{$A=\{-1,1,2,4\}$}% \settoheight\dsmH{$A=\{-1,1,2,4\}$}% \settodepth\dsmD{$A=\{-1,1,2,4\}$}% \typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}% \noindent$A=\{-1,1,2,4\}$%
+  svg#2 ppt/media/image18.svg (png ppt/media/image17.png) build=p3_B.svg
+        pos=(5.03,1.15)in  sz=3.17x0.35in  szMB=228x25pt
+        LATEX: % \settowidth\dsmW{$B=\{x\mid x^2-2x\leq 0\}$}% \settoheight\dsmH{$B=\{x\mid x^2-2x\leq 0\}$}% \settodepth\dsmD{$B=\{x\mid x^2-2x\leq 0\}$}% \typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}% \noindent$B=\{x\mid x^2-2x\leq 0\}$%
+  svg#3 ppt/media/image20.svg (png ppt/media/image19.png) build=p7_cap.svg
+        pos=(9.03,1.19)in  sz=1.22x0.23in  szMB=88x16pt
+        LATEX: % \settowidth\dsmW{$A\cap B=$}% \settoheight\dsmH{$A\cap B=$}% \settodepth\dsmD{$A\cap B=$}% \typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}% \noindent$A\cap B=$%
+  svg#4 ppt/media/image22.svg (png ppt/media/image21.png) build=p3_oA.svg
+        pos=(1.24,1.70)in  sz=1.06x0.33in  szMB=76x24pt
+        LATEX: % \settowidth\dsmW{$\{{-}1,2\}$}% \settoheight\dsmH{$\{{-}1,2\}$}% \settodepth\dsmD{$\{{-}1,2\}$}% \typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}% \noindent$\{{-}1,2\}$%
+  svg#5 ppt/media/image24.svg (png ppt/media/image23.png) build=p7_oA.svg
+        pos=(3.26,1.70)in  sz=0.80x0.33in  szMB=58x24pt
+        LATEX: % \settowidth\dsmW{$\{1,2\}$}% \settoheight\dsmH{$\{1,2\}$}% \settodepth\dsmD{$\{1,2\}$}% \typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}% \noindent$\{1,2\}$%
+  svg#6 ppt/media/image26.svg (png ppt/media/image25.png) build=p3_oC.svg
+        pos=(5.02,1.70)in  sz=0.80x0.33in  szMB=58x24pt
+        LATEX: % \settowidth\dsmW{$\{1,4\}$}% \settoheight\dsmH{$\{1,4\}$}% \settodepth\dsmD{$\{1,4\}$}% \typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}% \noindent$\{1,4\}$%
+  svg#7 ppt/media/image28.svg (png ppt/media/image27.png) build=p3_oD.svg
+        pos=(6.78,1.70)in  sz=1.06x0.33in  szMB=76x24pt
+        LATEX: % \settowidth\dsmW{$\{{-}1,4\}$}% \settoheight\dsmH{$\{{-}1,4\}$}% \settodepth\dsmD{$\{{-}1,4\}$}% \typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}% \noindent$\{{-}1,4\}$%
+  >> svgBlip total on slide3 = 7
+
+---------- slide4 ----------
+  svg#1 ppt/media/image30.svg (png ppt/media/image29.png) build=p4_A.svg
+        pos=(2.33,1.17)in  sz=3.12x0.33in  szMB=224x24pt
+        LATEX: % \settowidth\dsmW{$A=\{x\mid -2<x<2\}$}% \settoheight\dsmH{$A=\{x\mid -2<x<2\}$}% \settodepth\dsmD{$A=\{x\mid -2<x<2\}$}% \typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}% \noindent$A=\{x\mid -2<x<2\}$%
+  svg#2 ppt/media/image32.svg (png ppt/media/image31.png) build=p4_B.svg
+        pos=(5.78,1.17)in  sz=3.14x0.33in  szMB=226x24pt
+        LATEX: % \settowidth\dsmW{$B=\{x\mid -1\leq x<3\}$}% \settoheight\dsmH{$B=\{x\mid -1\leq x<3\}$}% \settodepth\dsmD{$B=\{x\mid -1\leq x<3\}$}% \typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}% \noindent$B=\{x\mid -1\leq x<3\}$%
+  svg#3 ppt/media/image34.svg (png ppt/media/image33.png) build=p4_cup.svg
+        pos=(9.76,1.19)in  sz=1.22x0.23in  szMB=88x16pt
+        LATEX: % \settowidth\dsmW{$A\cup B=$}% \settoheight\dsmH{$A\cup B=$}% \settodepth\dsmD{$A\cup B=$}% \typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}% \noindent$A\cup B=$%
+  svg#4 ppt/media/image36.svg (png ppt/media/image35.png) build=p4_oA.svg
+        pos=(1.24,1.70)in  sz=2.44x0.33in  szMB=175x24pt
+        LATEX: % \settowidth\dsmW{$\{x\mid -2<x<3\}$}% \settoheight\dsmH{$\{x\mid -2<x<3\}$}% \settodepth\dsmD{$\{x\mid -2<x<3\}$}% \typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}% \noindent$\{x\mid -2<x<3\}$%
+  svg#5 ppt/media/image38.svg (png ppt/media/image37.png) build=p4_oB.svg
+        pos=(4.63,1.70)in  sz=1.84x0.33in  szMB=132x24pt
+        LATEX: % \settowidth\dsmW{$\{x\mid x>-2\}$}% \settoheight\dsmH{$\{x\mid x>-2\}$}% \settodepth\dsmD{$\{x\mid x>-2\}$}% \typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}% \noindent$\{x\mid x>-2\}$%
+  svg#6 ppt/media/image40.svg (png ppt/media/image39.png) build=p4_oC.svg
+        pos=(7.43,1.70)in  sz=2.44x0.33in  szMB=176x24pt
+        LATEX: % \settowidth\dsmW{$\{x\mid -1\leq x<3\}$}% \settoheight\dsmH{$\{x\mid -1\leq x<3\}$}% \settodepth\dsmD{$\{x\mid -1\leq x<3\}$}% \typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}% \noindent$\{x\mid -1\leq x<3\}$%
+  svg#7 ppt/media/image42.svg (png ppt/media/image41.png) build=p4_oD.svg
+        pos=(10.83,1.70)in  sz=1.58x0.33in  szMB=114x24pt
+        LATEX: % \settowidth\dsmW{$\{x\mid x<3\}$}% \settoheight\dsmH{$\{x\mid x<3\}$}% \settodepth\dsmD{$\{x\mid x<3\}$}% \typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}% \noindent$\{x\mid x<3\}$%
+  >> svgBlip total on slide4 = 7
+
+---------- slide5 ----------
+  svg#1 ppt/media/image44.svg (png ppt/media/image43.png) build=p5_A.svg
+        pos=(2.33,1.17)in  sz=2.87x0.33in  szMB=206x24pt
+        LATEX: % \settowidth\dsmW{$A=\{x\mid \log_2 x<1\}$}% \settoheight\dsmH{$A=\{x\mid \log_2 x<1\}$}% \settodepth\dsmD{$A=\{x\mid \log_2 x<1\}$}% \typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}% \noindent$A=\{x\mid \log_2 x<1\}$%
+  svg#2 ppt/media/image46.svg (png ppt/media/image45.png) build=p5_B.svg
+        pos=(5.53,1.17)in  sz=2.88x0.33in  szMB=207x24pt
+        LATEX: % \settowidth\dsmW{$B=\{x\mid 1<x<3\}$}% \settoheight\dsmH{$B=\{x\mid 1<x<3\}$}% \settodepth\dsmD{$B=\{x\mid 1<x<3\}$}% \typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}% \noindent$B=\{x\mid 1<x<3\}$%
+  svg#3 ppt/media/image47.svg (png ppt/media/image19.png) build=p7_cap.svg
+        pos=(9.25,1.19)in  sz=1.22x0.23in  szMB=88x16pt
+        LATEX: % \settowidth\dsmW{$A\cap B=$}% \settoheight\dsmH{$A\cap B=$}% \settodepth\dsmD{$A\cap B=$}% \typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}% \noindent$A\cap B=$%
+  svg#4 ppt/media/image49.svg (png ppt/media/image48.png) build=p5_oA.svg
+        pos=(1.24,1.70)in  sz=0.98x0.33in  szMB=71x24pt
+        LATEX: % \settowidth\dsmW{$(-1,1)$}% \settoheight\dsmH{$(-1,1)$}% \settodepth\dsmD{$(-1,1)$}% \typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}% \noindent$(-1,1)$%
+  svg#5 ppt/media/image51.svg (png ppt/media/image50.png) build=p5_oB.svg
+        pos=(3.18,1.70)in  sz=0.98x0.33in  szMB=71x24pt
+        LATEX: % \settowidth\dsmW{$(-1,2)$}% \settoheight\dsmH{$(-1,2)$}% \settodepth\dsmD{$(-1,2)$}% \typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}% \noindent$(-1,2)$%
+  svg#6 ppt/media/image53.svg (png ppt/media/image52.png) build=p5_oC.svg
+        pos=(5.12,1.70)in  sz=0.72x0.33in  szMB=52x24pt
+        LATEX: % \settowidth\dsmW{$(1,2)$}% \settoheight\dsmH{$(1,2)$}% \settodepth\dsmD{$(1,2)$}% \typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}% \noindent$(1,2)$%
+  svg#7 ppt/media/image55.svg (png ppt/media/image54.png) build=p5_oD.svg
+        pos=(6.80,1.70)in  sz=0.72x0.33in  szMB=52x24pt
+        LATEX: % \settowidth\dsmW{$(0,2)$}% \settoheight\dsmH{$(0,2)$}% \settodepth\dsmD{$(0,2)$}% \typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}% \noindent$(0,2)$%
+  >> svgBlip total on slide5 = 7
+
+---------- slide6 ----------
+  svg#1 ppt/media/image57.svg (png ppt/media/image56.png) build=p6_A.svg
+        pos=(2.33,1.15)in  sz=3.15x0.35in  szMB=227x25pt
+        LATEX: % \settowidth\dsmW{$A=\{x\mid x^2-4x\leq 0\}$}% \settoheight\dsmH{$A=\{x\mid x^2-4x\leq 0\}$}% \settodepth\dsmD{$A=\{x\mid x^2-4x\leq 0\}$}% \typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}% \noindent$A=\{x\mid x^2-4x\leq 0\}$%
+  svg#2 ppt/media/image59.svg (png ppt/media/image58.png) build=p6_B.svg
+        pos=(5.82,1.17)in  sz=3.11x0.33in  szMB=224x24pt
+        LATEX: % \settowidth\dsmW{$B=\{x\in\mathbb N\mid |x|<3\}$}% \settoheight\dsmH{$B=\{x\in\mathbb N\mid |x|<3\}$}% \settodepth\dsmD{$B=\{x\in\mathbb N\mid |x|<3\}$}% \typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}% \noindent$B=\{x\in\mathbb N\mid |x|<3\}$%
+  svg#3 ppt/media/image60.svg (png ppt/media/image19.png) build=p7_cap.svg
+        pos=(9.76,1.19)in  sz=1.22x0.23in  szMB=88x16pt
+        LATEX: % \settowidth\dsmW{$A\cap B=$}% \settoheight\dsmH{$A\cap B=$}% \settodepth\dsmD{$A\cap B=$}% \typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}% \noindent$A\cap B=$%
+  svg#4 ppt/media/image62.svg (png ppt/media/image61.png) build=p6_oA.svg
+        pos=(1.24,1.70)in  sz=0.80x0.33in  szMB=58x24pt
+        LATEX: % \settowidth\dsmW{$\{0,1\}$}% \settoheight\dsmH{$\{0,1\}$}% \settodepth\dsmD{$\{0,1\}$}% \typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}% \noindent$\{0,1\}$%
+  svg#5 ppt/media/image63.svg (png ppt/media/image23.png) build=p7_oA.svg
+        pos=(3.00,1.70)in  sz=0.80x0.33in  szMB=58x24pt
+        LATEX: % \settowidth\dsmW{$\{1,2\}$}% \settoheight\dsmH{$\{1,2\}$}% \settodepth\dsmD{$\{1,2\}$}% \typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}% \noindent$\{1,2\}$%
+  svg#6 ppt/media/image65.svg (png ppt/media/image64.png) build=p6_oC.svg
+        pos=(4.76,1.70)in  sz=1.11x0.33in  szMB=80x24pt
+        LATEX: % \settowidth\dsmW{$\{0,1,2\}$}% \settoheight\dsmH{$\{0,1,2\}$}% \settodepth\dsmD{$\{0,1,2\}$}% \typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}% \noindent$\{0,1,2\}$%
+  svg#7 ppt/media/image67.svg (png ppt/media/image66.png) build=p6_oD.svg
+        pos=(6.83,1.70)in  sz=1.68x0.33in  szMB=121x24pt
+        LATEX: % \settowidth\dsmW{$\{{-}1,0,1,2\}$}% \settoheight\dsmH{$\{{-}1,0,1,2\}$}% \settodepth\dsmD{$\{{-}1,0,1,2\}$}% \typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}% \noindent$\{{-}1,0,1,2\}$%
+  >> svgBlip total on slide6 = 7
+
+---------- slide7 ----------
+  svg#1 ppt/media/image69.svg (png ppt/media/image68.png) build=p7_A.svg
+        pos=(2.33,1.17)in  sz=1.79x0.33in  szMB=129x24pt
+        LATEX: % \settowidth\dsmW{$A=\{1,2,3\}$}% \settoheight\dsmH{$A=\{1,2,3\}$}% \settodepth\dsmD{$A=\{1,2,3\}$}% \typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}% \noindent$A=\{1,2,3\}$%
+  svg#2 ppt/media/image71.svg (png ppt/media/image70.png) build=p7_B.svg
+        pos=(4.46,1.17)in  sz=4.09x0.33in  szMB=295x24pt
+        LATEX: % \settowidth\dsmW{$B=\{y\mid y=2x-1,\ x\in A\}$}% \settoheight\dsmH{$B=\{y\mid y=2x-1,\ x\in A\}$}% \settodepth\dsmD{$B=\{y\mid y=2x-1,\ x\in A\}$}% \typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}% \noindent$B=\{y\mid y=2x-1,\ x\in A\}$%
+  svg#3 ppt/media/image72.svg (png ppt/media/image19.png) build=p7_cap.svg
+        pos=(9.38,1.19)in  sz=1.22x0.23in  szMB=88x16pt
+        LATEX: % \settowidth\dsmW{$A\cap B=$}% \settoheight\dsmH{$A\cap B=$}% \settodepth\dsmD{$A\cap B=$}% \typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}% \noindent$A\cap B=$%
+  svg#4 ppt/media/image73.svg (png ppt/media/image23.png) build=p7_oA.svg
+        pos=(1.24,1.70)in  sz=0.80x0.33in  szMB=58x24pt
+        LATEX: % \settowidth\dsmW{$\{1,2\}$}% \settoheight\dsmH{$\{1,2\}$}% \settodepth\dsmD{$\{1,2\}$}% \typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}% \noindent$\{1,2\}$%
+  svg#5 ppt/media/image75.svg (png ppt/media/image74.png) build=p7_oB.svg
+        pos=(3.00,1.70)in  sz=1.11x0.33in  szMB=80x24pt
+        LATEX: % \settowidth\dsmW{$\{1,2,3\}$}% \settoheight\dsmH{$\{1,2,3\}$}% \settodepth\dsmD{$\{1,2,3\}$}% \typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}% \noindent$\{1,2,3\}$%
+  svg#6 ppt/media/image76.svg (png ppt/media/image11.png) build=p7_oC.svg
+        pos=(5.07,1.70)in  sz=0.80x0.33in  szMB=58x24pt
+        LATEX: % \settowidth\dsmW{$\{1,3\}$}% \settoheight\dsmH{$\{1,3\}$}% \settodepth\dsmD{$\{1,3\}$}% \typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}% \noindent$\{1,3\}$%
+  svg#7 ppt/media/image78.svg (png ppt/media/image77.png) build=p7_oD.svg
+        pos=(6.83,1.70)in  sz=1.42x0.33in  szMB=102x24pt
+        LATEX: % \settowidth\dsmW{$\{1,2,3,5\}$}% \settoheight\dsmH{$\{1,2,3,5\}$}% \settodepth\dsmD{$\{1,2,3,5\}$}% \typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}% \noindent$\{1,2,3,5\}$%
+  >> svgBlip total on slide7 = 7
+
+---------- slide8 ----------
+  svg#1 ppt/media/image80.svg (png ppt/media/image79.png) build=p8_U.svg
+        pos=(2.33,1.17)in  sz=2.11x0.33in  szMB=152x24pt
+        LATEX: % \settowidth\dsmW{$U=\{1,2,3,4\}$}% \settoheight\dsmH{$U=\{1,2,3,4\}$}% \settodepth\dsmD{$U=\{1,2,3,4\}$}% \typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}% \noindent$U=\{1,2,3,4\}$%
+  svg#2 ppt/media/image82.svg (png ppt/media/image81.png) build=p8_AB.svg
+        pos=(5.95,1.19)in  sz=0.65x0.29in  szMB=47x21pt
+        LATEX: % \settowidth\dsmW{$A,B$}% \settoheight\dsmH{$A,B$}% \settodepth\dsmD{$A,B$}% \typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}% \noindent$A,B$%
+  svg#3 ppt/media/image84.svg (png ppt/media/image83.png) build=p8_sub.svg
+        pos=(7.60,1.19)in  sz=1.65x0.27in  szMB=119x20pt
+        LATEX: % \settowidth\dsmW{$A\subseteq B\subseteq U$}% \settoheight\dsmH{$A\subseteq B\subseteq U$}% \settodepth\dsmD{$A\subseteq B\subseteq U$}% \typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}% \noindent$A\subseteq B\subseteq U$%
+  svg#4 ppt/media/image86.svg (png ppt/media/image85.png) build=p8_pair.svg
+        pos=(2.33,1.70)in  sz=0.91x0.33in  szMB=65x24pt
+        LATEX: % \settowidth\dsmW{$(A,B)$}% \settoheight\dsmH{$(A,B)$}% \settodepth\dsmD{$(A,B)$}% \typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}% \noindent$(A,B)$%
+  svg#5 ppt/media/image88.svg (png ppt/media/image87.png) build=p8_oA.svg
+        pos=(1.24,2.23)in  sz=0.33x0.21in  szMB=23x15pt
+        LATEX: % \settowidth\dsmW{$36$}% \settoheight\dsmH{$36$}% \settodepth\dsmD{$36$}% \typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}% \noindent$36$%
+  svg#6 ppt/media/image90.svg (png ppt/media/image89.png) build=p8_oB.svg
+        pos=(2.52,2.23)in  sz=0.33x0.21in  szMB=23x15pt
+        LATEX: % \settowidth\dsmW{$48$}% \settoheight\dsmH{$48$}% \settodepth\dsmD{$48$}% \typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}% \noindent$48$%
+  svg#7 ppt/media/image92.svg (png ppt/media/image91.png) build=p8_oC.svg
+        pos=(3.80,2.23)in  sz=0.33x0.21in  szMB=23x15pt
+        LATEX: % \settowidth\dsmW{$64$}% \settoheight\dsmH{$64$}% \settodepth\dsmD{$64$}% \typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}% \noindent$64$%
+  svg#8 ppt/media/image94.svg (png ppt/media/image93.png) build=p8_oD.svg
+        pos=(5.09,2.23)in  sz=0.33x0.21in  szMB=23x15pt
+        LATEX: % \settowidth\dsmW{$81$}% \settoheight\dsmH{$81$}% \settodepth\dsmD{$81$}% \typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}% \noindent$81$%
+  >> svgBlip total on slide8 = 8
+
+---------- slide9 ----------
+  svg#1 ppt/media/image96.svg (png ppt/media/image95.png) build=p9_U.svg
+        pos=(2.33,1.15)in  sz=5.80x0.35in  szMB=417x25pt
+        LATEX: % \settowidth\dsmW{$U=\{(x,y)\mid x^2+y^2\leq 1,\ x\in\mathbb Z,\ y\in\mathbb Z\}$}% \settoheight\dsmH{$U=\{(x,y)\mid x^2+y^2\leq 1,\ x\in\mathbb Z,\ y\in\mathbb Z\}$}% \settodepth\dsmD{$U=\{(x,y)\mid x^2+y^2\leq 1,\ x\in\mathbb Z,\ y\in\mathbb Z\}$}% \typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}% \noindent$U=\{(x,y)\mid x^2+y^2\leq 1,\ x\in\mathbb Z,\ y\in\mathbb Z\}$%
+  svg#2 ppt/media/image98.svg (png ppt/media/image97.png) build=p9_U2.svg
+        pos=(2.00,1.72)in  sz=0.26x0.23in  szMB=18x16pt
+        LATEX: % \settowidth\dsmW{$U$}% \settoheight\dsmH{$U$}% \settodepth\dsmD{$U$}% \typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}% \noindent$U$%
+  svg#3 ppt/media/image100.svg (png ppt/media/image99.png) build=p9_blank.svg
+        pos=(4.92,1.94)in  sz=1.20x0.07in  szMB=86x5pt
+        LATEX: % \settowidth\dsmW{$\underline{\hspace{3.6em}}$}% \settoheight\dsmH{$\underline{\hspace{3.6em}}$}% \settodepth\dsmD{$\underline{\hspace{3.6em}}$}% \typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}% \noindent$\underline{\hspace{3.6em}}$%
+  >> svgBlip total on slide9 = 3

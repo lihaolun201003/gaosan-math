@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "backend": "native",
+  "rasterEngine": "libreoffice",
+  "source": "saved",
+  "inputPath": "C:\\Users\\lihao\\Desktop\\家教\\高三数学\\10.8\\集合专题_课堂板书版.pptx",
+  "sourceSha256": "0bb99c4008dff7b647a929dce23d068cc8831692fe97667ea24861c6d6e6e571",
+  "dpi": 200,
+  "pageCount": 9,
+  "images": [
+    {
+      "index": 1,
+      "page": 1,
+      "path": "C:\\Users\\lihao\\Desktop\\家教\\高三数学\\10.8\\_build_sets\\prev1\\page-0001.png",
+      "width": 2667,
+      "height": 1501,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 65633
+    },
+    {
+      "index": 2,
+      "page": 2,
+      "path": "C:\\Users\\lihao\\Desktop\\家教\\高三数学\\10.8\\_build_sets\\prev1\\page-0002.png",
+      "width": 2667,
+      "height": 1501,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 90630
+    },
+    {
+      "index": 3,
+      "page": 3,
+      "path": "C:\\Users\\lihao\\Desktop\\家教\\高三数学\\10.8\\_build_sets\\prev1\\page-0003.png",
+      "width": 2667,
+      "height": 1501,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 88943
+    },
+    {
+      "index": 4,
+      "page": 4,
+      "path": "C:\\Users\\lihao\\Desktop\\家教\\高三数学\\10.8\\_build_sets\\prev1\\page-0004.png",
+      "width": 2667,
+      "height": 1501,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 103250
+    },
+    {
+      "index": 5,
+      "page": 5,
+      "path": "C:\\Users\\lihao\\Desktop\\家教\\高三数学\\10.8\\_build_sets\\prev1\\page-0005.png",
+      "width": 2667,
+      "height": 1501,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 98715
+    },
+    {
+      "index": 6,
+      "page": 6,
+      "path": "C:\\Users\\lihao\\Desktop\\家教\\高三数学\\10.8\\_build_sets\\prev1\\page-0006.png",
+      "width": 2667,
+      "height": 1501,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 100677
+    },
+    {
+      "index": 7,
+      "page": 7,
+      "path": "C:\\Users\\lihao\\Desktop\\家教\\高三数学\\10.8\\_build_sets\\prev1\\page-0007.png",
+      "width": 2667,
+      "height": 1501,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 100586
+    },
+    {
+      "index": 8,
+      "page": 8,
+      "path": "C:\\Users\\lihao\\Desktop\\家教\\高三数学\\10.8\\_build_sets\\prev1\\page-0008.png",
+      "width": 2667,
+      "height": 1501,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 102448
+    },
+    {
+      "index": 9,
+      "page": 9,
+      "path": "C:\\Users\\lihao\\Desktop\\家教\\高三数学\\10.8\\_build_sets\\prev1\\page-0009.png",
+      "width": 2667,
+      "height": 1501,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280.0666666666666,
+        "height": 720.0666666666667
+      },
+      "byteLength": 93272
+    }
+  ],
+  "missingFonts": []
+}

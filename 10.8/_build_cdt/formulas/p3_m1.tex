@@ -1,0 +1,11 @@
+\documentclass[border=0pt,12pt]{standalone}
+\usepackage{amsmath,amssymb}
+\newlength\dsmW\newlength\dsmH\newlength\dsmD
+\begin{document}
+\fontsize{26}{31.2}\selectfont
+\settowidth\dsmW{$p:\log_2 x>\log_2 y$}%
+\settoheight\dsmH{$p:\log_2 x>\log_2 y$}%
+\settodepth\dsmD{$p:\log_2 x>\log_2 y$}%
+\typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}%
+$p:\log_2 x>\log_2 y$%
+\end{document}

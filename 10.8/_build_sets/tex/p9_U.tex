@@ -1,0 +1,10 @@
+\documentclass[border=0pt,12pt]{standalone}
+\usepackage{amsmath,amssymb}
+\newlength\dsmW\newlength\dsmH\newlength\dsmD
+\begin{document}%
+\settowidth\dsmW{$U=\{(x,y)\mid x^2+y^2\leq 1,\ x\in\mathbb Z,\ y\in\mathbb Z\}$}%
+\settoheight\dsmH{$U=\{(x,y)\mid x^2+y^2\leq 1,\ x\in\mathbb Z,\ y\in\mathbb Z\}$}%
+\settodepth\dsmD{$U=\{(x,y)\mid x^2+y^2\leq 1,\ x\in\mathbb Z,\ y\in\mathbb Z\}$}%
+\typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}%
+\noindent$U=\{(x,y)\mid x^2+y^2\leq 1,\ x\in\mathbb Z,\ y\in\mathbb Z\}$%
+\end{document}

@@ -1,0 +1,35 @@
+=== master background ===
+<p:bg xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
+  <p:bgRef idx="1001">
+    <a:schemeClr val="bg1"/>
+  </p:bgRef>
+</p:bg>
+
+
+=== A. pdfcheck (from DELIVERED PDF) lower-ink vs prev2 (from DELIVERED PPTX) ===
+
+--- prev2 (pptx 200dpi) ---
+  page2: 2667x1501  bottom ink y=406px = 146.4pt  lower-blank=72.88%  nonwhite-below-65%=0
+  page3: 2667x1501  bottom ink y=406px = 146.4pt  lower-blank=72.88%  nonwhite-below-65%=0
+  page4: 2667x1501  bottom ink y=406px = 146.4pt  lower-blank=72.88%  nonwhite-below-65%=0
+  page5: 2667x1501  bottom ink y=406px = 146.4pt  lower-blank=72.88%  nonwhite-below-65%=0
+  page6: 2667x1501  bottom ink y=406px = 146.4pt  lower-blank=72.88%  nonwhite-below-65%=0
+  page7: 2667x1501  bottom ink y=406px = 146.4pt  lower-blank=72.88%  nonwhite-below-65%=0
+  page8: 2667x1501  bottom ink y=489px = 176.3pt  lower-blank=67.36%  nonwhite-below-65%=0
+  page9: 2667x1501  bottom ink y=400px = 144.3pt  lower-blank=73.28%  nonwhite-below-65%=0
+
+--- pdfcheck (pdf 150dpi) ---
+  page2: 2000x1125  bottom ink y=304px = 146.4pt  lower-blank=72.89%  nonwhite-below-65%=0
+  page3: 2000x1125  bottom ink y=304px = 146.4pt  lower-blank=72.89%  nonwhite-below-65%=0
+  page4: 2000x1125  bottom ink y=304px = 146.4pt  lower-blank=72.89%  nonwhite-below-65%=0
+  page5: 2000x1125  bottom ink y=304px = 146.4pt  lower-blank=72.89%  nonwhite-below-65%=0
+  page6: 2000x1125  bottom ink y=304px = 146.4pt  lower-blank=72.89%  nonwhite-below-65%=0
+  page7: 2000x1125  bottom ink y=304px = 146.4pt  lower-blank=72.89%  nonwhite-below-65%=0
+  page8: 2000x1125  bottom ink y=366px = 176.2pt  lower-blank=67.38%  nonwhite-below-65%=0
+  page9: 2000x1125  bottom ink y=299px = 144.0pt  lower-blank=73.33%  nonwhite-below-65%=0
+
+=== B. cover page (page 1) ink geometry ===
+  prev2 page1: 2667x1501 ink rows 567..905  cols 735..1920
+     bands=[(567, 715), (824, 905)]
+  pdfcheck page1: 2000x1125 ink rows 425..678  cols 552..1440
+     bands=[(425, 536), (618, 678)]

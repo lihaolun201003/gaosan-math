@@ -1,0 +1,10 @@
+\documentclass[border=0pt,12pt]{standalone}
+\usepackage{amsmath,amssymb}
+\newlength\dsmW\newlength\dsmH\newlength\dsmD
+\begin{document}
+\settowidth\dsmW{$(3+2i)z=8+i$}%
+\settoheight\dsmH{$(3+2i)z=8+i$}%
+\settodepth\dsmD{$(3+2i)z=8+i$}%
+\typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}%
+$(3+2i)z=8+i$%
+\end{document}

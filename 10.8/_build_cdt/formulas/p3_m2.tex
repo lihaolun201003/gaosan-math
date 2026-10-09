@@ -1,0 +1,11 @@
+\documentclass[border=0pt,12pt]{standalone}
+\usepackage{amsmath,amssymb}
+\newlength\dsmW\newlength\dsmH\newlength\dsmD
+\begin{document}
+\fontsize{26}{31.2}\selectfont
+\settowidth\dsmW{$q:2^x>2^y$}%
+\settoheight\dsmH{$q:2^x>2^y$}%
+\settodepth\dsmD{$q:2^x>2^y$}%
+\typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}%
+$q:2^x>2^y$%
+\end{document}

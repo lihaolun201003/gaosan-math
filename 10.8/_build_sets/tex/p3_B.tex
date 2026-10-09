@@ -1,0 +1,10 @@
+\documentclass[border=0pt,12pt]{standalone}
+\usepackage{amsmath,amssymb}
+\newlength\dsmW\newlength\dsmH\newlength\dsmD
+\begin{document}%
+\settowidth\dsmW{$B=\{x\mid x^2-2x\leq 0\}$}%
+\settoheight\dsmH{$B=\{x\mid x^2-2x\leq 0\}$}%
+\settodepth\dsmD{$B=\{x\mid x^2-2x\leq 0\}$}%
+\typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}%
+\noindent$B=\{x\mid x^2-2x\leq 0\}$%
+\end{document}

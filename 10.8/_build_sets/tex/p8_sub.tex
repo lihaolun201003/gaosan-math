@@ -1,0 +1,10 @@
+\documentclass[border=0pt,12pt]{standalone}
+\usepackage{amsmath,amssymb}
+\newlength\dsmW\newlength\dsmH\newlength\dsmD
+\begin{document}%
+\settowidth\dsmW{$A\subseteq B\subseteq U$}%
+\settoheight\dsmH{$A\subseteq B\subseteq U$}%
+\settodepth\dsmD{$A\subseteq B\subseteq U$}%
+\typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}%
+\noindent$A\subseteq B\subseteq U$%
+\end{document}

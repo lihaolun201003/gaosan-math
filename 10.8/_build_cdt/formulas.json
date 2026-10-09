@@ -1,0 +1,46 @@
+{
+ "_comment": "数学公式片段。size 为编译时的真实字号（pt），与 PPT 中 1:1 放置一致。",
+ "snippets": {
+  "p2_m1": {"tex": "x\\in\\mathbb{R}", "size": 26},
+  "p2_m2": {"tex": "x^2-3x<0", "size": 26},
+  "p2_m3": {"tex": "|x-1|<2", "size": 26},
+
+  "p3_m1": {"tex": "p:\\log_2 x>\\log_2 y", "size": 26},
+  "p3_m2": {"tex": "q:2^x>2^y", "size": 26},
+  "p3_m3": {"tex": "p", "size": 26},
+  "p3_m4": {"tex": "q", "size": 26},
+
+  "p4_m1": {"tex": "a,b\\in\\mathbb{R}", "size": 26},
+  "p4_m2": {"tex": "a\\ne b", "size": 26},
+  "p4_m3": {"tex": "a^2\\ne b^2", "size": 26},
+
+  "p5_m1": {"tex": "a\\in\\mathbb{R}", "size": 26},
+  "p5_m2": {"tex": "a>-2", "size": 26},
+  "p5_m3": {"tex": "f(x)=2x^2+4ax+1", "size": 26},
+  "p5_m4": {"tex": "(2,+\\infty)", "size": 26},
+
+  "p6_m1": {"tex": "k\\in\\mathbb{Z}", "size": 26},
+  "p6_m2": {"tex": "x=2k\\pi+\\dfrac{\\pi}{6}", "size": 26},
+  "p6_m3": {"tex": "\\sin x=\\dfrac{1}{2}", "size": 26},
+
+  "p7_m1": {"tex": "\\vec{a},\\vec{b}", "size": 26},
+  "p7_m2": {"tex": "|\\vec{a}+\\vec{b}|=|\\vec{a}-\\vec{b}|", "size": 26},
+  "p7_m3": {"tex": "\\vec{a}\\perp\\vec{b}", "size": 26},
+
+  "p8_m1": {"tex": "\\{a_n\\}", "size": 26},
+  "p8_m2": {"tex": "a_2+a_4=a_1+a_5", "size": 26},
+
+  "p9_m1": {"tex": "a\\in\\mathbb{R}", "size": 26},
+  "p9_m2": {"tex": "l_1:x+2ay-1=0", "size": 26},
+  "p9_m3": {"tex": "l_2:(3a-1)x-ay-1=0", "size": 26},
+  "p9_m4": {"tex": "a=0", "size": 26},
+  "p9_m5": {"tex": "l_1\\parallel l_2", "size": 26},
+
+  "p10_m1": {"tex": "x\\in\\mathbb{R}", "size": 26},
+  "p10_m2": {"tex": "x^2<1", "size": 26},
+  "p10_m3": {"tex": "-2<x<1", "size": 23},
+  "p10_m4": {"tex": "-1<x<1", "size": 23},
+  "p10_m5": {"tex": "0<x<2", "size": 23},
+  "p10_m6": {"tex": "-1<x<0", "size": 23}
+ }
+}

@@ -1,0 +1,11 @@
+\documentclass[border=0pt,12pt]{standalone}
+\usepackage{amsmath,amssymb}
+\newlength\dsmW\newlength\dsmH\newlength\dsmD
+\begin{document}
+\fontsize{26}{31.2}\selectfont
+\settowidth\dsmW{$\sin x=\dfrac{1}{2}$}%
+\settoheight\dsmH{$\sin x=\dfrac{1}{2}$}%
+\settodepth\dsmD{$\sin x=\dfrac{1}{2}$}%
+\typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}%
+$\sin x=\dfrac{1}{2}$%
+\end{document}

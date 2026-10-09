@@ -1,0 +1,39 @@
+{
+  "format": "pptx",
+  "verdict": "pass",
+  "checks": [
+    {
+      "id": "package",
+      "status": "pass"
+    },
+    {
+      "id": "contains",
+      "status": "pass",
+      "text": "\u590d\u6570"
+    },
+    {
+      "id": "contains",
+      "status": "pass",
+      "text": "\u9898\u578b\u4e00\uff5c\u590d\u6570\u7684\u56db\u5219\u8fd0\u7b97"
+    },
+    {
+      "id": "contains",
+      "status": "pass",
+      "text": "\u9898\u578b\u516b\uff5c\u7efc\u5408\u5224\u65ad\u4e0e\u51e0\u4f55\u6700\u503c"
+    },
+    {
+      "id": "contains",
+      "status": "pass",
+      "text": "\u4f8b\u9898"
+    },
+    {
+      "id": "count",
+      "status": "pass",
+      "expected": 9,
+      "actual": 9
+    }
+  ],
+  "summary": {
+    "slides": 9
+  }
+}

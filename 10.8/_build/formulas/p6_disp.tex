@@ -1,0 +1,10 @@
+\documentclass[border=0pt,12pt]{standalone}
+\usepackage{amsmath,amssymb}
+\newlength\dsmW\newlength\dsmH\newlength\dsmD
+\begin{document}
+\settowidth\dsmW{$\displaystyle z=\frac{4+2i}{1-i}$}%
+\settoheight\dsmH{$\displaystyle z=\frac{4+2i}{1-i}$}%
+\settodepth\dsmD{$\displaystyle z=\frac{4+2i}{1-i}$}%
+\typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}%
+$\displaystyle z=\frac{4+2i}{1-i}$%
+\end{document}

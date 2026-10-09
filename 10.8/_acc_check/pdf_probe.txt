@@ -1,0 +1,70 @@
+
+===== DELIVERED PDF : C:\Users\lihao\Desktop\家教\高三数学\10.8\集合专题_课堂板书版.pdf
+pages = 9
+page0 mediabox = RectangleObject([0, 0, 960.009449, 540])  (w=960.01pt h=540.00pt)
+  page1: mediabox=RectangleObject([0, 0, 960.009449, 540])  rotate=None
+  page2: mediabox=RectangleObject([0, 0, 960.009449, 540])  rotate=None
+  page3: mediabox=RectangleObject([0, 0, 960.009449, 540])  rotate=None
+  page4: mediabox=RectangleObject([0, 0, 960.009449, 540])  rotate=None
+  page5: mediabox=RectangleObject([0, 0, 960.009449, 540])  rotate=None
+  page6: mediabox=RectangleObject([0, 0, 960.009449, 540])  rotate=None
+  page7: mediabox=RectangleObject([0, 0, 960.009449, 540])  rotate=None
+  page8: mediabox=RectangleObject([0, 0, 960.009449, 540])  rotate=None
+  page9: mediabox=RectangleObject([0, 0, 960.009449, 540])  rotate=None
+
+--- DELIVERED PDF text per page ---
+
+>>> page 1: '高三数学专题复习\n集合——八大典型题型'
+
+>>> page 2: '题型一\u3000集合的基本运算\n已知集合 ， ，则 （\u3000）\nA. B. C. D.'
+
+>>> page 3: '题型二\u3000不等式与集合运算\n已知集合 ， ，则 （\u3000）\nA. B. C. D.'
+
+>>> page 4: '题型三\u3000区间型集合运算\n已知集合 ， ，则 （\u3000）\nA. B. C. D.'
+
+>>> page 5: '题型四\u3000函数定义域与值域型集合\n已知集合 ， ，则 （\u3000）\nA. B. C. D.'
+
+>>> page 6: '题型五\u3000特殊数集与列举法\n已知集合 ， ，则 （\u3000）\nA. B. C. D.'
+
+>>> page 7: '题型六\u3000根据关系生成新集合\n已知集合 ， ，则 （\u3000）\nA. B. C. D.'
+
+>>> page 8: '题型七\u3000集合关系与元素个数\n已知集合 ，若集合  满足 ，\n则集合对  共有（\u3000）个．\nA. B. C. D.'
+
+>>> page 9: '题型八\u3000特殊元素与几何计数\n已知集合 ，\n则集合  中的元素个数为 ．'
+
+--- DELIVERED PDF XObject counts per page ---
+  page1: xobjects=0
+  page2: xobjects=0
+  page3: xobjects=0
+  page4: xobjects=0
+  page5: xobjects=0
+  page6: xobjects=0
+  page7: xobjects=0
+  page8: xobjects=0
+  page9: xobjects=0
+
+===== SOURCE PDF 集合专题.pdf : C:\Users\lihao\Desktop\家教\高三数学\10.8\集合专题.pdf
+pages = 33
+page0 mediabox = RectangleObject([0, 0, 595.28, 841.89])  (w=595.28pt h=841.89pt)
+  page1: mediabox=RectangleObject([0, 0, 595.28, 841.89])  rotate=None
+  page2: mediabox=RectangleObject([0, 0, 595.28, 841.89])  rotate=None
+  page3: mediabox=RectangleObject([0, 0, 595.28, 841.89])  rotate=None
+  page4: mediabox=RectangleObject([0, 0, 595.28, 841.89])  rotate=None
+  page5: mediabox=RectangleObject([0, 0, 595.28, 841.89])  rotate=None
+  page6: mediabox=RectangleObject([0, 0, 595.28, 841.89])  rotate=None
+  page7: mediabox=RectangleObject([0, 0, 595.28, 841.89])  rotate=None
+  page8: mediabox=RectangleObject([0, 0, 595.28, 841.89])  rotate=None
+  page9: mediabox=RectangleObject([0, 0, 595.28, 841.89])  rotate=None
+
+===== SOURCE PDF 集合答案.pdf : C:\Users\lihao\Desktop\家教\高三数学\10.8\集合答案.pdf
+pages = 57
+page0 mediabox = RectangleObject([0, 0, 595.28, 841.89])  (w=595.28pt h=841.89pt)
+  page1: mediabox=RectangleObject([0, 0, 595.28, 841.89])  rotate=None
+  page2: mediabox=RectangleObject([0, 0, 595.28, 841.89])  rotate=None
+  page3: mediabox=RectangleObject([0, 0, 595.28, 841.89])  rotate=None
+  page4: mediabox=RectangleObject([0, 0, 595.28, 841.89])  rotate=None
+  page5: mediabox=RectangleObject([0, 0, 595.28, 841.89])  rotate=None
+  page6: mediabox=RectangleObject([0, 0, 595.28, 841.89])  rotate=None
+  page7: mediabox=RectangleObject([0, 0, 595.28, 841.89])  rotate=None
+  page8: mediabox=RectangleObject([0, 0, 595.28, 841.89])  rotate=None
+  page9: mediabox=RectangleObject([0, 0, 595.28, 841.89])  rotate=None

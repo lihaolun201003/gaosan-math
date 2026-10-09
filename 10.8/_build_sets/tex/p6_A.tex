@@ -1,0 +1,10 @@
+\documentclass[border=0pt,12pt]{standalone}
+\usepackage{amsmath,amssymb}
+\newlength\dsmW\newlength\dsmH\newlength\dsmD
+\begin{document}%
+\settowidth\dsmW{$A=\{x\mid x^2-4x\leq 0\}$}%
+\settoheight\dsmH{$A=\{x\mid x^2-4x\leq 0\}$}%
+\settodepth\dsmD{$A=\{x\mid x^2-4x\leq 0\}$}%
+\typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}%
+\noindent$A=\{x\mid x^2-4x\leq 0\}$%
+\end{document}

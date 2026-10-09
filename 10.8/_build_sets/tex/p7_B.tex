@@ -1,0 +1,10 @@
+\documentclass[border=0pt,12pt]{standalone}
+\usepackage{amsmath,amssymb}
+\newlength\dsmW\newlength\dsmH\newlength\dsmD
+\begin{document}%
+\settowidth\dsmW{$B=\{y\mid y=2x-1,\ x\in A\}$}%
+\settoheight\dsmH{$B=\{y\mid y=2x-1,\ x\in A\}$}%
+\settodepth\dsmD{$B=\{y\mid y=2x-1,\ x\in A\}$}%
+\typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}%
+\noindent$B=\{y\mid y=2x-1,\ x\in A\}$%
+\end{document}

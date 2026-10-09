@@ -1,0 +1,10 @@
+\documentclass[border=0pt,12pt]{standalone}
+\usepackage{amsmath,amssymb}
+\newlength\dsmW\newlength\dsmH\newlength\dsmD
+\begin{document}%
+\settowidth\dsmW{$B=\{x\mid 1<x<3\}$}%
+\settoheight\dsmH{$B=\{x\mid 1<x<3\}$}%
+\settodepth\dsmD{$B=\{x\mid 1<x<3\}$}%
+\typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}%
+\noindent$B=\{x\mid 1<x<3\}$%
+\end{document}

@@ -1,0 +1,11 @@
+\documentclass[border=0pt,12pt]{standalone}
+\usepackage{amsmath,amssymb}
+\newlength\dsmW\newlength\dsmH\newlength\dsmD
+\begin{document}
+\fontsize{26}{31.2}\selectfont
+\settowidth\dsmW{$a\in\mathbb{R}$}%
+\settoheight\dsmH{$a\in\mathbb{R}$}%
+\settodepth\dsmD{$a\in\mathbb{R}$}%
+\typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}%
+$a\in\mathbb{R}$%
+\end{document}

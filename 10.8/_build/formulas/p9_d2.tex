@@ -1,0 +1,10 @@
+\documentclass[border=0pt,12pt]{standalone}
+\usepackage{amsmath,amssymb}
+\newlength\dsmW\newlength\dsmH\newlength\dsmD
+\begin{document}
+\settowidth\dsmW{$|z-2+i|$}%
+\settoheight\dsmH{$|z-2+i|$}%
+\settodepth\dsmD{$|z-2+i|$}%
+\typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}%
+$|z-2+i|$%
+\end{document}

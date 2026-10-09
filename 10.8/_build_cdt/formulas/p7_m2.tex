@@ -1,0 +1,11 @@
+\documentclass[border=0pt,12pt]{standalone}
+\usepackage{amsmath,amssymb}
+\newlength\dsmW\newlength\dsmH\newlength\dsmD
+\begin{document}
+\fontsize{26}{31.2}\selectfont
+\settowidth\dsmW{$|\vec{a}+\vec{b}|=|\vec{a}-\vec{b}|$}%
+\settoheight\dsmH{$|\vec{a}+\vec{b}|=|\vec{a}-\vec{b}|$}%
+\settodepth\dsmD{$|\vec{a}+\vec{b}|=|\vec{a}-\vec{b}|$}%
+\typeout{DSHMETRIC:\number\dsmW:\number\dsmH:\number\dsmD}%
+$|\vec{a}+\vec{b}|=|\vec{a}-\vec{b}|$%
+\end{document}
